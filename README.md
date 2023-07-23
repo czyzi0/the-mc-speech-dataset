@@ -2,7 +2,7 @@
 
 This is public domain speech dataset consisting of 24018 short audio clips of a single speaker reading sentences in Polish. A transcription is provided for each clip. Clips have total length of more than 22 hours.
 
-Texts are in public domain. The audio was recorded in 2021-22 as a part of my master's thesis and is in public domain.
+Texts are in public domain. The audio was recorded in 2021-22 as a part of my [master's thesis](http://dx.doi.org/10.13140/RG.2.2.26293.24800) and is in public domain.
 
 The dataset is available at:
 - [HuggingFace](https://huggingface.co/datasets/czyzi0/the-mc-speech-dataset)
