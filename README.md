@@ -4,7 +4,7 @@ This is public domain speech dataset consisting of 24018 short audio clips of a 
 
 Texts are in public domain. The audio was recorded in 2021-22 as a part of my master's thesis and is in public domain.
 
-Mirrors:
+The dataset is available at:
 - [HuggingFace](https://huggingface.co/datasets/czyzi0/the-mc-speech-dataset)
 - [Kaggle](https://www.kaggle.com/datasets/czyzi0/the-mc-speech-dataset)
 
