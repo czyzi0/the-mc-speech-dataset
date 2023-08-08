@@ -7,6 +7,7 @@ Texts are in public domain. The audio was recorded in 2021-22 as a part of my [m
 The dataset is available at:
 - [HuggingFace](https://huggingface.co/datasets/czyzi0/the-mc-speech-dataset)
 - [Kaggle](https://www.kaggle.com/datasets/czyzi0/the-mc-speech-dataset)
+- [OpenSLR](https://www.openslr.org/142/)
 
 If you use this dataset, please cite:
 ```
